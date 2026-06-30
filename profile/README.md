@@ -36,7 +36,7 @@ Fastest MPC-TSS on the market — ~15x faster. Flexible protocol, optimized for 
 
 We are committed to the highest standards of security. Our cryptographic systems and libraries are open, undergo regular independent audits by leading firms.
 
-**8 independent audits** — Cure53, Trail of Bits, HashCloak, Secfault
+**8 independent audits** — Cure53, Trail of Bits, HashCloak, Secfault, [check them out →](https://docs.silencelaboratories.com/audits/)
 
 ## Reach out
 
